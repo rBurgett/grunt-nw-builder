@@ -36,7 +36,7 @@
     "application"
   ],
   "dependencies": {
-    "nw-builder": "https://github.com/jontro/nw-builder.git"
+    "nw-builder": "https://github.com/rBurgett/nw-builder.git"
   },
   "devDependencies": {
     "grunt": "^0.4.4"
